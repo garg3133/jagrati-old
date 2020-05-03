@@ -160,9 +160,9 @@ nav{
 }
 .navbar2 ul{
 	list-style: none;
-	padding: 0;
+	padding-top: 0;
 	margin: 0;
-	padding-top: 100px;
+	padding-top: 10px;
 }
 .navbar2 li{
 	display: block;
@@ -528,8 +528,8 @@ nav{
 .con-sidenav a{
 	position: fixed;
 	bottom: 90px;
-	left: -110px;
-	width: 150px;
+	left: -135px;
+	width: 170px;
 	padding: 5px;
 	text-decoration: none;
 	color: white;
@@ -541,6 +541,7 @@ nav{
 #text-sidenav{
 	padding-bottom: 20px;
 	padding-right: 0px;
+	font-size: 20px;
 }
 .con-sidenav a:hover{
 	left:-5px;

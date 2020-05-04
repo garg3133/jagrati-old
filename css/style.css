@@ -152,29 +152,30 @@ nav{
 	left: 0px;
 	padding: 0;
 	width: 100%;
-	background-color: rgba(255,140,0,0.9);
+	background-color: rgba(255, 140, 0, 0.792);
 	box-sizing: border-box;
 	height:0px;
 	overflow: hidden;
 	transition: 400ms;
+	z-index: 0;
 }
 .navbar2 ul{
 	list-style: none;
 	padding-top: 0;
 	margin: 0;
 	padding-top: 10px;
+	height: 10%;
 }
-.navbar2 li{
+.navbar2 ul li{
 	display: block;
 	padding: 0;
 	padding-left: 5px;
 	color: white;
 	border: 1px white solid;
 	border-radius: 5px;
-	width: 77%;
+	width: 70%;
 	margin: 1px auto;
 }
-
 /*SHOWCASE STARTS*/
 
 #showcase{

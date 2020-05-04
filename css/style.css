@@ -157,7 +157,7 @@ nav{
 	height:0px;
 	overflow: hidden;
 	transition: 400ms;
-	z-index: 0;
+	z-index: top;
 }
 .navbar2 ul{
 	list-style: none;
